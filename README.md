@@ -84,7 +84,7 @@
 
 <div>
   <h3>GitHub Stat</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aNdr3W03&theme=nightowl" alt="Top Languages" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aNdr3W03&langs_count=10&theme=nightowl" alt="Top Languages" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=aNdr3W03&show_icons=true&theme=nightowl" alt="khelthos" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aNdr3W03&layuout=compact&theme=nightowl&v=2" alt="Wakatime Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aNdr3W03&theme=nightowl&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656" alt="GitHub Streak" />
