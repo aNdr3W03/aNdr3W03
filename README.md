@@ -3,9 +3,9 @@
   <h3>Student at Universitas Sumatera Utara, Indonesia</h3>
 </div>
 
-<br/>
-
-![Profile views](https://gpvc.arturio.dev/aNdr3W03)
+<div align="center">
+  <img src="https://gpvc.arturio.dev/aNdr3W03" alt="Profile Views" height="25"> 
+</div>
 
 <br/>
 
@@ -51,8 +51,11 @@ int main() {
 <h2>🤝🏻 Connect with Me</h2>
 
 <p>
-  <a href="https://id.linkedin.com/in/andrew-benedictus-jamesie-07658a1b3">
-    <img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" height="40" width="40"> 
+  <a href="instagram.com/andrewbenedictus">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40" width="40"> 
+  </a>
+  <a href="https://www.youtube.com/channel/UCserpGA6grVSHzfzz_oBL7A">
+    <img src="https://api.iconify.design/logos/youtube-icon.svg" alt="YouTube" height="40" width="40"> 
   </a>
   <a href="mailto:andrew.jamesie@students.usu.ac.id">
     <img src="https://api.iconify.design/logos/google-gmail.svg" alt="Gmail" height="40" width="40"> 
@@ -60,14 +63,14 @@ int main() {
   <a href="mailto:andrewbjamesie@yahoo.com">
     <img src="https://api.iconify.design/fa-brands/yahoo.svg?color=%235f01d1" alt="Yahoo" height="40" width="40"> 
   </a>
+  <a href="https://id.linkedin.com/in/andrew-benedictus-jamesie-07658a1b3">
+    <img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" height="40" width="40"> 
+  </a>
   <a href="https://github.com/aNdr3W03">
     <img src="https://api.iconify.design/bi/github.svg?color=%235c6bc0" alt="GitHub" height="40" width="40"> 
   </a>
   <a href="https://stackoverflow.com/users/13403662">
     <img src="https://api.iconify.design/logos/stackoverflow-icon.svg" alt="StackOverflow" height="40" width="40"> 
-  </a>
-  <a href="https://www.youtube.com/channel/UCserpGA6grVSHzfzz_oBL7A">
-    <img src="https://api.iconify.design/logos/youtube-icon.svg" alt="YouTube" height="40" width="40"> 
   </a>
 </p>
 
@@ -76,7 +79,7 @@ int main() {
 <h2>🛠 Languages & Tools < / > </h2>
 
 <div>
-  <a href="https://www.cprogramming.com">
+  <a href="https://www.cprogramming.com" style="margin-right: 10px;">
     <img src="https://api.iconify.design/logos/c.svg" alt="C" height="40" width="40"> 
   </a>
   <a href="https://www.cplusplus.com/reference">
@@ -88,11 +91,14 @@ int main() {
   <a href="https://www.python.org">
     <img src="https://api.iconify.design/logos/python.svg" alt="Python" height="40" width="40"> 
   </a>
+  <a href="https://www.java.com">
+    <img src="https://api.iconify.design/logos/java.svg" alt="Java" height="40" width="40"> 
+  </a>
   <a href="https://www.w3schools.com/html">
-    <img src="https://api.iconify.design/logos/html-5.svg" alt="HTML" height="48" width="48"> 
+    <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="40" width="40"> 
   </a>
   <a href="https://www.w3schools.com/css">
-    <img src="https://api.iconify.design/logos/css-3.svg" alt="CSS" height="48" width="48"> 
+    <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS" height="40" width="40"> 
   </a>
   <a href="https://www.javascript.com">
     <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="40" width="40"> 
@@ -118,18 +124,36 @@ int main() {
   <a href="https://visualstudio.microsoft.com">
     <img src="https://api.iconify.design/logos/visual-studio.svg" alt="Visual Studio" height="40" width="40"> 
   </a>
+  <a href="https://netbeans.apache.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40" width="auto"> 
+  </a>
   <a href="https://colab.research.google.com/">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Collab" height="40" width="40"> 
   </a>
 </div>
 
-<br/>
+<br/><br/>
 
-<h2>⚙️ GitHub Stat</h2>
+<h2>⚙️ GitHub Statistics</h2>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aNdr3W03&langs_count=10&theme=nightowl" alt="Top Languages" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aNdr3W03&show_icons=true&theme=nightowl" alt="khelthos" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aNdr3W03&theme=nightowl&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aNdr3W03&layuout=compact&theme=nightowl&v=2" alt="Wakatime Stats" /><br/>
-</div>
+<details>
+  <summary>📈 GitHub Contribution Graph</summary>
+  <br/>
+  <img width="99.5%" src="https://activity-graph.herokuapp.com/graph?username=aNdr3W03&custom_title=Andrew%20Benedictus%20Jamesie%20Trips's%20Contribution%20Graph&theme=nightowl&bg_color=011627&color=a77DCB&hide_border=true&line=a77DCB&point=7fdbca&area=true&area_color=045599" alt="aNdr3W03 Trips' Activity Graph" />
+</details>
+
+<details>
+  <summary>🎛️ GitHub Profile Stats</summary>
+  <br/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aNdr3W03&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=aNdr3W03&theme=nightowl&date_format=j%20M%5B%20Y%5D&fire=FF6600&ring=FF6656&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aNdr3W03&langs_count=10&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
+  <img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=aNdr3W03&layuout=compact&theme=nightowl&v=2&hide_border=true" alt="Wakatime Stats" />
+</details>
+
+<details>
+  <summary>🏆 GitHub Trophy</summary>
+  <br/>
+  <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=aNdr3W03&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
+</details>
