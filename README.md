@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I’m Andrew Benedictus Jamesie </h2>
+  <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">,<br/>I’m Andrew Benedictus Jamesie</h1>
   <h3>Student at Universitas Sumatera Utara, Indonesia</h3>
 </div>
 
@@ -30,7 +30,9 @@
 using namespace std;
 
 int main() {
-    string name    = "👋🏻 Andrew Benedictus Jamesie";
+    cout << "👋🏻 Andrew Benedictus Jamesie\n";
+    cout << "Hello World is not my first code\n";
+    
     string work    = "🔭 Ilmu Komputer Laboratory Center (IKLC) USU";
     string study   = "🎓 Universitas Sumatera Utara (USU)";
     string major   = "📖 Computer Science";
@@ -41,8 +43,6 @@ int main() {
     string email_2 = "📫 andrew.jamesie@students.usu.ac.id";
     string funfact = "⚡ Earth is round :)";
     
-    cout << "Hello World is not my first code";
-
     return 0;
 }
 ```
@@ -128,10 +128,15 @@ int main() {
   <a href="https://netbeans.apache.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40" width="auto"> 
   </a>
-  <a href="https://colab.research.google.com/">
+  <a href="https://colab.research.google.com">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Collab" height="40" width="40"> 
   </a>
+  <a href="https://www.markdownguide.org">
+    <img src="https://api.iconify.design/bi/markdown-fill.svg?color=%23aaa" alt="Google Collab" height="40" width="40"> 
+  </a>
 </div>
+
+
 
 <br/><br/>
 
@@ -158,3 +163,10 @@ int main() {
   <br/>
   <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=aNdr3W03&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
 </details>
+
+<br/><br/>
+
+<div align="center">
+  <p>Aaaaggghhhhhh!! My contribution grapgh is getting eaten by this damn snake!! 😡</p>
+  <img src="https://github.com/aNdr3W03/aNdr3W03/blob/output/github-contribution-grid-snake.gif" alt="Snake">
+</div>
