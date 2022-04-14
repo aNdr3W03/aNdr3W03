@@ -37,7 +37,8 @@ int main() {
     string learn   = "🌱 Python, C++, PHP, SQL, Frontend & Backend Web Dev.";
     string collab  = "👯 Web Application Development";
     string ask     = "💬 UI/UX, Python or C++ Programming";
-    string email   = "📫 andrewbjamesie@yahoo.com; andrew.jamesie@students.usu.ac.id";
+    string email_1 = "📫 andrewbjamesie@yahoo.com";
+    string email_2 = "📫 andrew.jamesie@students.usu.ac.id";
     string funfact = "⚡ Earth is round :)";
     
     cout << "Hello World is not my first code";
