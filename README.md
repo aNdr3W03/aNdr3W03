@@ -52,7 +52,7 @@ int main() {
 <h2>🤝🏻 Connect with Me</h2>
 
 <p>
-  <a href="instagram.com/andrewbenedictus">
+  <a href="https://instagram.com/andrewbenedictus">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40" width="40"> 
   </a>
   <a href="https://www.youtube.com/channel/UCserpGA6grVSHzfzz_oBL7A">
@@ -168,5 +168,5 @@ int main() {
 
 <div align="center">
   <p>Aaaaggghhhhhh!! My contribution grapgh is getting eaten by this damn snake!! 😡</p>
-  <img src="https://github.com/aNdr3W03/aNdr3W03/blob/output/github-contribution-grid-snake.svg" alt="Snake">
+  <img width="99.5%" src="https://github.com/aNdr3W03/aNdr3W03/blob/output/github-contribution-grid-snake.svg" alt="Snake">
 </div>
