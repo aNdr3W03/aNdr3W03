@@ -168,5 +168,5 @@ int main() {
 
 <div align="center">
   <p>Aaaaggghhhhhh!! My contribution grapgh is getting eaten by this damn snake!! 😡</p>
-  <img src="https://github.com/aNdr3W03/aNdr3W03/blob/output/github-contribution-grid-snake.gif" alt="Snake">
+  <img src="https://github.com/aNdr3W03/aNdr3W03/blob/output/github-contribution-grid-snake.svg" alt="Snake">
 </div>
