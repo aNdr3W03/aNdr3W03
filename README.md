@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">,<br/>I’m Andrew Benedictus Jamesie</h1>
+  <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Andrew Benedictus Jamesie</h1>
   <h3>Student at Universitas Sumatera Utara, Indonesia</h3>
 </div>
 
