@@ -81,13 +81,13 @@ int main() {
 
 <div>
   <a href="https://www.cprogramming.com" style="margin-right: 10px;">
-    <img src="https://api.iconify.design/logos/c.svg" alt="C" height="40" width="40"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" height="40" width="40"> 
   </a>
   <a href="https://www.cplusplus.com/reference">
     <img src="https://api.iconify.design/logos/c-plusplus.svg" alt="C++" height="40" width="40"> 
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide">
-    <img src="https://api.iconify.design/logos/c-sharp.svg" alt="C#" height="40" width="40"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="40" width="40"> 
   </a>
   <a href="https://www.python.org">
     <img src="https://api.iconify.design/logos/python.svg" alt="Python" height="40" width="40"> 
