@@ -64,7 +64,7 @@ int main() {
   <a href="mailto:andrewbjamesie@yahoo.com">
     <img src="https://api.iconify.design/fa-brands/yahoo.svg?color=%235f01d1" alt="Yahoo" height="40" width="40"> 
   </a>
-  <a href="https://id.linkedin.com/in/andrew-benedictus-jamesie-07658a1b3">
+  <a href="https://id.linkedin.com/in/andrewbenedictusjamesie">
     <img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" height="40" width="40"> 
   </a>
   <a href="https://github.com/aNdr3W03">
@@ -94,6 +94,9 @@ int main() {
   </a>
   <a href="https://www.java.com">
     <img src="https://api.iconify.design/logos/java.svg" alt="Java" height="40" width="40"> 
+  </a>
+  <a href="https://kotlinlang.org">
+    <img src="https://api.iconify.design/logos/kotlin-icon.svg" alt="Kotlin" height="40" width="40"> 
   </a>
   <a href="https://www.w3schools.com/html">
     <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="40" width="40"> 
@@ -127,6 +130,9 @@ int main() {
   </a>
   <a href="https://netbeans.apache.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40" width="auto"> 
+  </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" height="40" width="40"> 
   </a>
   <a href="https://colab.research.google.com">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Collab" height="40" width="40"> 
