@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Andrew Benedictus Jamesie</h1>
-  <h3>Student at <a href="https://www.usu.ac.id">Universitas Sumatera Utara</a>, Indonesia</h3>
+  <h3>Student at <a href="https://www.usu.ac.id" title="Transformation Towards the Ultimate Strategy for World Class University">Universitas Sumatera Utara</a>, Indonesia</h3>
 </div>
 
 <div align="center">
@@ -52,26 +52,29 @@ int main() {
 <h2>🤝🏻 Connect with Me</h2>
 
 <p>
-  <a href="https://instagram.com/andrewbenedictus">
+  <a href="https://instagram.com/andrewbenedictus" title="Instagram">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40" width="40"> 
   </a>
-  <a href="https://www.youtube.com/channel/UCserpGA6grVSHzfzz_oBL7A">
+  <a href="https://www.youtube.com/channel/UCserpGA6grVSHzfzz_oBL7A" title="YouTube">
     <img src="https://api.iconify.design/logos/youtube-icon.svg" alt="YouTube" height="40" width="40"> 
   </a>
-  <a href="mailto:andrew.jamesie@students.usu.ac.id">
+  <a href="mailto:andrew.jamesie@students.usu.ac.id" title="Gmail">
     <img src="https://api.iconify.design/logos/google-gmail.svg" alt="Gmail" height="40" width="40"> 
   </a>
-  <a href="mailto:andrewbjamesie@yahoo.com">
+  <a href="mailto:andrewbjamesie@yahoo.com" title="Yahoo">
     <img src="https://api.iconify.design/fa-brands/yahoo.svg?color=%235f01d1" alt="Yahoo" height="40" width="40"> 
   </a>
-  <a href="https://id.linkedin.com/in/andrewbenedictusjamesie">
+  <a href="https://id.linkedin.com/in/andrewbenedictusjamesie" title="LinkedIn">
     <img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" height="40" width="40"> 
   </a>
-  <a href="https://github.com/aNdr3W03">
+  <a href="https://github.com/aNdr3W03" title="GitHub">
     <img src="https://api.iconify.design/bi/github.svg?color=%235c6bc0" alt="GitHub" height="40" width="40"> 
   </a>
-  <a href="https://stackoverflow.com/users/13403662">
-    <img src="https://api.iconify.design/logos/stackoverflow-icon.svg" alt="StackOverflow" height="40" width="40"> 
+  <a href="https://stackoverflow.com/users/13403662" title="Stack Overflow">
+    <img src="https://api.iconify.design/logos/stackoverflow-icon.svg" alt="Stack Overflow" height="40" width="40"> 
+  </a>
+  <a href="https://www.hackerrank.com/andrewbjamesie" title="HackerRank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="40"> 
   </a>
 </p>
 
@@ -80,65 +83,68 @@ int main() {
 <h2>🛠 Languages & Tools < / > </h2>
 
 <div>
-  <a href="https://www.cprogramming.com">
+  <a href="https://www.cprogramming.com" title="C">
     <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" height="40" width="40"> 
   </a>
-  <a href="https://www.cplusplus.com/reference">
+  <a href="https://www.cplusplus.com/reference" title="C++">
     <img src="https://api.iconify.design/logos/c-plusplus.svg" alt="C++" height="40" width="40"> 
   </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide" title="C#">
     <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="40" width="40"> 
   </a>
-  <a href="https://www.python.org">
+  <a href="https://www.python.org" title="Python">
     <img src="https://api.iconify.design/logos/python.svg" alt="Python" height="40" width="40"> 
   </a>
-  <a href="https://www.java.com">
+  <a href="https://www.java.com" title="Java">
     <img src="https://api.iconify.design/logos/java.svg" alt="Java" height="40" width="40"> 
   </a>
-  <a href="https://kotlinlang.org">
+  <a href="https://kotlinlang.org" title="Kotlin">
     <img src="https://api.iconify.design/logos/kotlin-icon.svg" alt="Kotlin" height="40" width="40"> 
   </a>
-  <a href="https://www.w3schools.com/html">
+  <a href="https://www.w3schools.com/html" title="HTML">
     <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="40" width="40"> 
   </a>
-  <a href="https://www.w3schools.com/css">
+  <a href="https://www.w3schools.com/css" title="CSS">
     <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS" height="40" width="40"> 
   </a>
-  <a href="https://www.javascript.com">
+  <a href="https://www.javascript.com" title="JavaScript">
     <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="40" width="40"> 
   </a>
-  <a href="https://www.php.net">
+  <a href="https://www.php.net" title="PHP">
     <img src="https://api.iconify.design/logos/php.svg" alt="PHP" height="40" width="40"> 
   </a>
-  <a href="https://www.mysql.com">
+  <a href="https://www.mysql.com" title="MySQL">
     <img src="https://api.iconify.design/logos/mysql.svg" alt="MySQL" height="40" width="40"> 
   </a>
-  <a href="https://git-scm.com">
+  <a href="https://git-scm.com" title="Git">
     <img src="https://api.iconify.design/logos/git-icon.svg" alt="Git" height="40" width="40"> 
   </a>
-  <a href="https://www.figma.com">
+  <a href="https://www.figma.com" title="Figma">
     <img src="https://api.iconify.design/logos/figma.svg" alt="Figma" height="40" width="40"> 
   </a>
-  <a href="https://getbootstrap.com">
+  <a href="https://getbootstrap.com" title="Bootstrap">
     <img src="https://api.iconify.design/logos/bootstrap.svg" alt="Bootstrap" height="40" width="40"> 
   </a>
-  <a href="https://code.visualstudio.com">
+  <a href="https://code.visualstudio.com" title="Visual Studio Code">
     <img src="https://api.iconify.design/logos/visual-studio-code.svg" alt="Visual Studio Code" height="40" width="40"> 
   </a>
-  <a href="https://visualstudio.microsoft.com">
+  <a href="https://visualstudio.microsoft.com" title="Visual Studio">
     <img src="https://api.iconify.design/logos/visual-studio.svg" alt="Visual Studio" height="40" width="40"> 
   </a>
-  <a href="https://netbeans.apache.org">
+  <a href="https://www.jetbrains.com/idea" title="IntellJ IDEA">
+    <img src="https://api.iconify.design/logos/intellij-idea.svg" alt="IntellJ IDEA" height="40" width="40"> 
+  </a>
+  <a href="https://netbeans.apache.org" title="Apache NetBeans">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40" width="auto"> 
   </a>
-  <a href="https://developer.android.com/studio">
+  <a href="https://developer.android.com/studio" title="Android Studio">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" height="40" width="40"> 
   </a>
-  <a href="https://colab.research.google.com">
+  <a href="https://colab.research.google.com" title="Google Collab">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Collab" height="40" width="40"> 
   </a>
-  <a href="https://www.markdownguide.org">
-    <img src="https://api.iconify.design/bi/markdown-fill.svg?color=%23aaa" alt="Google Collab" height="40" width="40"> 
+  <a href="https://www.markdownguide.org" title="Markdown">
+    <img src="https://api.iconify.design/bi/markdown-fill.svg?color=%23aaa" alt="Markdown" height="40" width="40"> 
   </a>
 </div>
 
