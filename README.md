@@ -148,9 +148,7 @@ int main() {
   </a>
 </div>
 
-
-
-<br/><br/>
+<br/>
 
 <h2>⚙️ GitHub Statistics</h2>
 
@@ -176,9 +174,13 @@ int main() {
   <img width="99.5%" src="https://github-profile-trophy.vercel.app/?username=aNdr3W03&theme=algolia&no-frame=true&column=-1&margin-w=5&margin-h=5" alt="GitHub Trophy" />
 </details>
 
-<br/><br/>
+<br/>
 
 <div align="center">
   <p>Aaaaggghhhhhh!! My contribution grapgh is getting eaten by this damn snake!! 😡</p>
   <img width="99.5%" src="https://github.com/aNdr3W03/aNdr3W03/blob/output/github-contribution-grid-snake.svg" alt="Snake">
 </div>
+
+<h1></h1>
+
+<p>&#169; 2022 Andrew Benedictus Jamesie</p>
