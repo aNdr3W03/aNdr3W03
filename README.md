@@ -135,10 +135,13 @@ int main() {
     <img src="https://api.iconify.design/logos/intellij-idea.svg" alt="IntellJ IDEA" height="40" width="40"> 
   </a>
   <a href="https://netbeans.apache.org" title="Apache NetBeans">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40" width="auto"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" alt="Apache NetBeans" height="40" width="auto">
   </a>
   <a href="https://developer.android.com/studio" title="Android Studio">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" height="40" width="40"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" height="40" width="40">
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB">
+    <img src="https://api.iconify.design/vscode-icons/file-type-matlab.svg" alt="MATLAB" height="40" width="40">
   </a>
   <a href="https://colab.research.google.com" title="Google Collab">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Collab" height="40" width="40"> 
