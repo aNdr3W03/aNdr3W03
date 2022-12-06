@@ -64,7 +64,7 @@ int main() {
   <a href="mailto:andrewbjamesie@yahoo.com" title="Yahoo">
     <img src="https://api.iconify.design/fa-brands/yahoo.svg?color=%235f01d1" alt="Yahoo" height="40" width="40"> 
   </a>
-  <a href="https://id.linkedin.com/in/andrewbenedictusjamesie" title="LinkedIn">
+  <a href="https://id.linkedin.com/in/andrewbjamesie" title="LinkedIn">
     <img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" height="40" width="40"> 
   </a>
   <a href="https://github.com/aNdr3W03" title="GitHub">
