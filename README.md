@@ -36,9 +36,9 @@ int main() {
     string work    = "🔭 Ilmu Komputer Laboratory Center (IKLC) USU";
     string study   = "🎓 Universitas Sumatera Utara (USU)";
     string major   = "📖 Computer Science";
-    string learn   = "🌱 Python, C++, PHP, SQL, Frontend & Backend Web Dev.";
+    string learn   = "🌱 Machine Learning, Python, C++, PHP, SQL, Frontend Web Dev.";
     string collab  = "👯 Web Application Development";
-    string ask     = "💬 UI/UX, Python or C++ Programming";
+    string ask     = "💬 Machine Learning, Python, C++, UI/UX";
     string email_1 = "📫 andrewbjamesie@yahoo.com";
     string email_2 = "📫 andrew.jamesie@students.usu.ac.id";
     string funfact = "⚡ Earth is round :)";
