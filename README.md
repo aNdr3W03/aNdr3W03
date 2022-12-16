@@ -4,7 +4,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aNdr3W03&style=for-the-badge&label=profile+views"> 
+  <img src="https://komarev.com/ghpvc/?username=aNdr3W03&style=for-the-badge&label=profile+views"> &nbsp;
+  <img src="https://img.shields.io/github/last-commit/aNdr3W03/aNdr3W03?style=for-the-badge">
 </div>
 
 <br/>
