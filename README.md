@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://gpvc.arturio.dev/aNdr3W03" alt="Profile Views" height="25"> 
+  <img src="https://komarev.com/ghpvc/?username=aNdr3W03&style=for-the-badge&label=profile+views"> 
 </div>
 
 <br/>
