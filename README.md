@@ -180,11 +180,6 @@ int main() {
 
 <br/>
 
-<div align="center">
-  <p>Aaaaggghhhhhh!! My contribution grapgh is getting eaten by this damn snake!! 😡</p>
-  <img width="99.5%" src="https://github.com/aNdr3W03/aNdr3W03/blob/output/github-contribution-grid-snake.svg" alt="Snake">
-</div>
-
 <h1></h1>
 
 <p>&#169; 2022 Andrew Benedictus Jamesie</p>
